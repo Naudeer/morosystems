@@ -1,4 +1,3 @@
-// src/App.tsx or src/index.tsx
 import { Provider } from 'react-redux';
 import { BrowserRouter } from 'react-router-dom';
 import { ThemeProvider } from '@mui/material/styles';
